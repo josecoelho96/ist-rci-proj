@@ -1,0 +1,5 @@
+*.o
+bin/reqserver
+bin/service
+sors_ds.txt
+sors_start.txt
